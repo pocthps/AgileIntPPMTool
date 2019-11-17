@@ -36,6 +36,10 @@ git commit -m "Project Object"
  git push --set-upstream origin branch0
 
 
+-- commit to master ffrrom branch 0
 
+git checkout master
+git merge branch0
+git push
 
 
