@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+----------------   create a new repository on the command line
 
 echo "# AgileIntPPMTool" >> README.md
 git init
@@ -18,11 +18,24 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 
+----------  create new branch and checkout
 git branch
 
 git branch branch0
 
 git checkout branch0
+
+--------------
+
+-- add code to branch 0 and then commit
+----------------------------------------------
+
+git add .
+git commit -m "Project Object"
+
+ git push --set-upstream origin branch0
+
+
 
 
 

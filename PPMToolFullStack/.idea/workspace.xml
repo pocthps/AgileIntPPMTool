@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e4e9c05-fc07-4719-849e-5d03fd4209a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Other/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Other/config.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573976422275</updated>
-      <workItem from="1573976423599" duration="1829000" />
+      <workItem from="1573976423599" duration="2199000" />
     </task>
     <servers />
   </component>
