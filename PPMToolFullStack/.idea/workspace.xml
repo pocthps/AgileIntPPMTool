@@ -1,20 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d67a74f4-8536-46dc-9549-1a16dc4fb44d" name="Default Changelist" comment="" />
+    <list default="true" id="2e4e9c05-fc07-4719-849e-5d03fd4209a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/maven_wrapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PPMToolFullStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PPMToolFullStack.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PPMToolFullStack" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1TjUrkjkIMSXBdSfrpudncTCrOg" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1TjbOqi9YOQ8XbhUVVzGCkbR9AR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Khalid Khan\Desktop\PPMToolFullStackReact+Java\PPMToolFullStack\src\main\java\io\agileintelligence\ppmtool" />
+      <recent name="C:\Users\Khalid Khan\Desktop\PPMToolFullStackReact+Java\PPMToolFullStack\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,16 +62,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d67a74f4-8536-46dc-9549-1a16dc4fb44d" name="Default Changelist" comment="" />
-      <created>1573973198047</created>
+      <changelist id="2e4e9c05-fc07-4719-849e-5d03fd4209a3" name="Default Changelist" comment="" />
+      <created>1573976422275</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573973198047</updated>
-      <workItem from="1573973199467" duration="1911000" />
+      <updated>1573976422275</updated>
+      <workItem from="1573976423599" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="PPMToolFullStack" type="b2602c69:ProjectViewProjectNode" />
+        <item name="PPMToolFullStack" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
